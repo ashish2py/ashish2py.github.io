@@ -1029,7 +1029,7 @@ ul.features-list-2 li {
     text-align: center;
     padding: 20px 0;
     margin-top: 20px;
-    background: #f7f7f7;
+    background: #ffffff;
 }
 
 #contact textarea {
@@ -1055,4 +1055,12 @@ ul.features-list-2 li {
 
 footer {
     padding: 20px;
+}
+
+
+
+.hb-list ul li {
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
 }
