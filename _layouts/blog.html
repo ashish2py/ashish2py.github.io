@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3"> 
+            <h1 class="text-center" id="education"><a class="pull-left btn btn-primary btn-round" href="/">back</a> </h1>
+        </div>
+        <div class="col-sm-9 " data-wow-delay="0.5s" data-wow-duration="1.5s" data-wow-offset="10">
+            <h1 class="text-left" id="education">Blogposts and Photographs</h1><br/>
+        </div>
+
+        <section>
+            <div class="tabs tabs-style-linebox">
+                <div class="content-wrap">
+                    <section class="content-current">
+						{% for post in site.posts %}
+                        <h2>
+                        	<span class="label label-primary">{{ post.date | date: "%b %-d, %Y" }}</span>
+                        	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                        </h2>
+                        {% endfor %}
+                    </section>
+                </div>
+            </div>
+        </section>
+        </div>
+    </div>
+<br/>
