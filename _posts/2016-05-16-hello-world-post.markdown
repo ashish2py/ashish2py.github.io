@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Hello Worldl!"
+title:  "Hello World!"
 date:   2016-05-16 22:28:32 +0530
 categories: blog post
 author : Ashish T.
