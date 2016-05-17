@@ -1065,6 +1065,12 @@ footer {
     margin-right: 10px;
 }
 
+h3 > p{
+    font-size: 1.3em !important;
+    font-weight: 300;
+    font-family: 'Raleway', sans-serif;
+}
+
 .btn-insta{
     background-color: #4090db;
     color: #ffffff;
