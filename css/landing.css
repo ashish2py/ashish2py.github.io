@@ -1064,3 +1064,8 @@ footer {
     text-align: center;
     margin-right: 10px;
 }
+
+.btn-insta{
+    background-color: #4090db;
+    color: #ffffff;
+}
