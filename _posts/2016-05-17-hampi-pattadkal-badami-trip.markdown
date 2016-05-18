@@ -26,3 +26,7 @@ Pattadakal also spelled Paṭṭadakallu is a World Heritage site, a village and
 Pattadakal is a great centre of Chalukya art and architecture, noted for its temples and inscriptions. According to inscriptions, the place was known by the names Kisuvolal (Red Town - mostly mountains near pattadakal gave this name), Raktapura, Pattada Kisuvolal. The literary work Hammira Kavya of 1540 quotes the place as Pattashilapura and Hammirapura. It has been mentioned in the 11th and 12th century inscriptions, as well as in the literary work Singirajapurana of 1500 and Hammira Kavya as the place where the Chalukya kings were crowned.
 
 ![Picture description](https://drscdn.500px.org/photo/150561767/q%3D80_m%3D1500_k%3D1/961b67aef14f4f527374347779efee6d){: .center-image .img-responsive}
+
+
+
+[Source](http://wikipedia.com/) - Wikipedia
