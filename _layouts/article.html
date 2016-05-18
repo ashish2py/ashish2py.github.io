@@ -2,13 +2,16 @@
 layout: default
 ---
 <div class="container">
-    <div class="col-sm-3">
-        <h1 class="text-center" id="education"><a class="pull-left btn btn-primary btn-round" href="/blog/">back</a> </h1>
-    </div>
     <div class="col-sm-9 " data-wow-delay="0.5s" data-wow-duration="1.5s" data-wow-offset="10">
         <h1 class="text-left" id="education">Blogposts and Photographs</h1><br/>
     </div>
-
+    <div class="col-sm-12">
+        <ol class="breadcrumb" style="margin-bottom: 5px;">
+          <li><a href="/">Home</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li class="active">{{ page.title }}</li>
+        </ol>
+    </div>
     <section>
         <div class="tabs tabs-style-linebox">
             <div class="content-wrap row">
@@ -27,9 +30,8 @@ layout: default
                                 {% for post in site.posts %}
                                 <li>
                                 <p>
-                                    <span class="label label-primary">{{ post.date | date: "%b %-d, %Y" }}</span> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+                                    <span class="label label-primary">{{ post.date | date: "%b %-d, %Y" }}</span> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><small>{{ post.title }}</small></a></p>
                                 </li>
-
                                 {% endfor %}
                                 <ul>
                             </p>
