@@ -4,6 +4,7 @@ title:  "Hello World!"
 date:   2016-05-16 22:28:32 +0530
 categories: blog post
 author : Ashish T.
+tags: greetings
 ---
 # #metallica #helloworld
 Yet another blog post on [github.io](http://github.io/) with #metallica poster.

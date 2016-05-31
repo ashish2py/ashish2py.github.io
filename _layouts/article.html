@@ -24,7 +24,16 @@ layout: default
                             <h3>{{ content }}</h3>
                         </div>
                         <div class="col-sm-4">
-                            <p>
+                                <p>
+                                  <strong> Tags </strong>
+                                  <br/>
+                                  {% for tag in page.tags %}
+                                    <span class="badge badge-primary" style="padding:5px 10px;">{{tag}}</span>
+                                    <!-- <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li> -->
+                                  {% endfor %}
+                                </p>
+
+                              <p>
                                 <strong> Recent Posts </strong>
                                 <ul class="list-unstyled">
                                 {% for post in site.posts %}
