@@ -19,7 +19,7 @@ I've been going crazy to take images so visited Sanjay Gandhi National Park and 
 Among the pictures taken in this frenzy are the ones below.
 
 # Signature Spider : National Park
-I wasn't know the name till one of my friend told me about this #signature spider.
+I didn't know the name untill one of my friend told me about this #signature spider.
 For me it's a **WEB DEVELOPER** who don't forget to mention copyrights on his web-site. :)
 
 
@@ -53,4 +53,4 @@ Sunrise with milky fog at left corner.
 
 
 
-Sudhagadh is one of my favorite so trek destination. I'm planning to write a separate post for Sudhagadh Trek.
+Sudhagadh is one of my favorite trek destination. I'm planning to write a separate post for Sudhagadh Trek.
