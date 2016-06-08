@@ -19,8 +19,8 @@ layout: default
                         <ul class="list-unstyled">
                         {% for post in site.posts %}
                         <li>
-                        <p>
-                            <span class="label label-primary">{{ post.date | date: "%b %-d, %Y" }}</span> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+                        <p style="font-size:1.1em;">
+                            <span style="margin-right:20px;" class="label label-default">{{ post.date | date: "%b %-d, %Y" }}</span> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
                         </li>
                         {% endfor %}
                         <ul>
