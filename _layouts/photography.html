@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9 " data-wow-delay="0.5s" data-wow-duration="1.5s" data-wow-offset="10">
+            <h1 class="text-left" id="education">Photography</h1><br/>
+        </div>
+        <div class="col-sm-12">
+            <ol class="breadcrumb" style="margin-bottom: 5px;">
+              <li><a href="/">Home</a></li>
+              <li class="active">Photography</li>
+            </ol>
+        </div>
+        <section>
+            <div class="tabs tabs-style-linebox">
+                <div class="content-wrap">
+                    <section class="content-current">
+                          <div class="table-responsive">
+                            <table class="table" style="border-bottom:0px !important;">
+                              <thead>
+                                  {% for post in site.posts %}
+                                      {% for tag in post.tags %}
+                                        {% if "photography" == tag %}
+                                            <tr>
+                                                <th style="width:150px;border: 1px !important; ">{{ post.date | date: "%b %-d, %Y" }}</th>
+                                                <th style="border: 1px !important;"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></th>
+                                            </tr>
+                                        {% endif %}
+                                      {% endfor %}
+                                  {% endfor %}
+                              </thead>
+                            </table>
+                          </div>
+                    </section>
+                </div>
+            </div>
+        </section>
+        </div>
+    </div>
+<br/>

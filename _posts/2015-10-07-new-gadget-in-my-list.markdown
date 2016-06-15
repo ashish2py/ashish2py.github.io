@@ -1,8 +1,8 @@
 ---
-layout: article
+layout: photography_article
 title:  "Canon-1200D, new gadget in my list!"
 date:   2015-10-07 22:28:32 +0530
-categories: blog post
+categories: photography post
 author : Ashish T.
 tags: photography trek camera Canon-1200D
 ---
