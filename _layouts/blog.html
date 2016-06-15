@@ -16,14 +16,18 @@ layout: default
             <div class="tabs tabs-style-linebox">
                 <div class="content-wrap">
                     <section class="content-current">
-                        <ul class="list-unstyled">
-                        {% for post in site.posts %}
-                        <li>
-                        <p style="font-size:1.1em;">
-                            <span style="margin-right:20px;" class="label label-default">{{ post.date | date: "%b %-d, %Y" }}</span> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-                        </li>
-                        {% endfor %}
-                        <ul>
+                          <div class="table-responsive">
+                            <table class="table" style="border-bottom:0px !important;">
+                              <thead>
+                                  {% for post in site.posts %}
+                                  <tr>
+                                      <th style="width:150px;border: 1px !important; ">{{ post.date | date: "%b %-d, %Y" }}</th>
+                                      <th style="border: 1px !important;"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></th>
+                                  </tr>
+                                  {% endfor %}
+                              </thead>
+                            </table>
+                          </div>
                     </section>
                 </div>
             </div>
