@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Trek  An Achievement!"
+title:  "Trek - An Achievement!"
 date:   2016-06-20
 categories: blog post
 author : Ashish T. and Priyanka
