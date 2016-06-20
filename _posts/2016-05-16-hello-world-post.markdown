@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Hello World!"
-date:   2016-05-16 22:28:32 +0530
+date:   2016-05-16
 categories: blog post
 author : Ashish T.
 tags: greetings

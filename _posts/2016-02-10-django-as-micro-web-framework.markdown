@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Using Django As A Microframework, Like Flask."
-date:   2016-02-10 22:28:32 +0530
+date:   2016-02-10
 categories: blog post
 author : Ashish T.
 tags: python django microframework flask code snippet github

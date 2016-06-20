@@ -1,7 +1,7 @@
 ---
 layout: photography_article
 title:  "Hampi to Pattadakal and Pattadkal to Aihole!"
-date:   2016-05-17 22:28:32 +0530
+date:   2016-05-17
 categories: photography post
 author : Ashish T.
 tags: photography trek camera Canon-1200D
