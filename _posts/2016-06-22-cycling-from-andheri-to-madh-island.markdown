@@ -24,7 +24,7 @@ But, we planned something else.
 
 # Andheri Highway Flyover to Andheri-Versoa linking road.
 
-A one fine Saturday morning at around 6:30am,  [Pritanka](/), [Me](http://www.ashishtiwari.me/) and [Abhijeet](https://www.facebook.com/abhijeet.ydv) took our cycles with us and met at a point. We thought of going to a different place where we haven't been before for cycling. And then suddnely one of us  said "lets go to madh island via marve beach". On hearing this we just saw at each other, smiled and what happened next was searching route to reach there, optimization of routes, after a 10min route discussion.
+A one fine Saturday morning at around 6:30am,  [Priyanka](/), [Me](http://www.ashishtiwari.me/) and [Abhijeet](https://www.facebook.com/abhijeet.ydv) took our cycles with us and met at a point. We thought of going to a different place where we haven't been before for cycling. And then suddenly one of us  said "lets go to madh island via marve beach". On hearing this we just saw at each other, smiled and what happened next was searching route to reach there, optimization of routes, after a 10min route discussion.
 
 We three bikers started our biking session from,
 
