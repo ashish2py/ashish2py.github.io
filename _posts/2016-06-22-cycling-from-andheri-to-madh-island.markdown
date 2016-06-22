@@ -34,6 +34,10 @@ We three bikers started our biking session from,
 
 It was a soothing atmosphere. Already it has rained at 5:30am in the morning. The smell of the soil was so soothing. As it was Saturday morning 7am there were hardly vehicle on the road. It was so cloudly that gave us doubt that it would rain now while cycling. Like this riding and indicating directions to each other.
 
+# MAP : Andheri to Madh Island
+![map pic](https://lh3.googleusercontent.com/xngnHvXFtgnjZwEULjmxnuGFlj4b8AwbiU3hRaXOUac7EM7nkM_xd7CaSLknmWqb5uqzzd78pA=w1280-h800-rw-no){:.center-image .img-responsive}
+
+
 # Andheri-Jogeshwari-Goregaon-Malad link road
 
 We passed Andheri, Jogeshwari, Goregaon.
