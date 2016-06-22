@@ -48,7 +48,7 @@ Somehow we entered a road which looked so amazing and smooth. Trees on both the 
 
 The three of us have not had breakfast before we left home. And this was the first destination that we reached from where we were very near to our final stop "Madh Island". We had a breakfast there, idli, vada and a hot tea made us refreshing.
 
-![](https://lh3.googleusercontent.com/TxUrMjulr8Pf1aNRwM2GgqZoQLVtGBge5stLcO4Vg6_tZJtlBl1dUEE_pMA2m9OMPlnWo9itig=w1280-h800-rw-no)
+![team pic](https://lh3.googleusercontent.com/TxUrMjulr8Pf1aNRwM2GgqZoQLVtGBge5stLcO4Vg6_tZJtlBl1dUEE_pMA2m9OMPlnWo9itig=w1280-h800-rw-no){:.center-image .img-responsive}
 
 # Marve Beach To Aksa Beach
 Thereon we took our cycles and moved further. Again a beautiful road. We saw there **Sathya Sai Institute of biotechnology**. As we moved further, we found many road-board stating its a land of indian coastal land. Further we also saw camps of INS Hamla.
