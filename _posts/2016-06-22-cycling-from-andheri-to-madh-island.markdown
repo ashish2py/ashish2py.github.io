@@ -3,7 +3,7 @@ layout: article
 title:  "Cycling from Andheri to Madh Island !"
 date:   2016-06-22
 categories: blog post
-author : Ashish T.
+author : Priyanka, Ashish, Abhijeet
 tags: photography cycling
 ---
 
@@ -11,19 +11,20 @@ tags: photography cycling
 
 # Cycling from Andheri to Madh Island
 
-One day moring me and my friend abhijeet cycle to Varsoa  beach. While we were chilling out we saw an island(madh) in front of us and instantly planned to go there.
+One day moring me and my friend abhijeet cycled to Varsoa beach. While we were chilling out we saw an island(madh) in front of us and instantly planned to go there.
 
-We opened Google-Maps and planned everything to reach there. There is shortcut which you can take to reach early.
+We opened Google-Maps and planned everything to reach there. There is a shortcut which you can take to reach quickly.
 
 * reach varsoa village jetty
-* take boat - 3rs per person/cycle
-* each to madh-island jetty in 3min.
+* take boat - 3rs per person/cycle for madh-island jetty.
+* reach madh-island jetty in 3min.
+* take bus for Madh Island.
 
 But, we planned something else.
 
 # Andheri Highway Flyover to Andheri-Versoa linking road.
 
-A one fine Saturday morning at around 6:30am,  Me, Abhijeet, Priyanka took our cycles with us and met at a point. We thought of going to a different place where we haven't been before for cycling. And then suddnely one of us  said "lets go to madh island via marve beach". On hearing this we just saw at each other, smiled and what happened next was searching route to reach there, optimization of routes, after a 10min route discussion.
+A one fine Saturday morning at around 6:30am,  [Pritanka](/), [Me](http://www.ashishtiwari.me/) and [Abhijeet](https://www.facebook.com/abhijeet.ydv) took our cycles with us and met at a point. We thought of going to a different place where we haven't been before for cycling. And then suddnely one of us  said "lets go to madh island via marve beach". On hearing this we just saw at each other, smiled and what happened next was searching route to reach there, optimization of routes, after a 10min route discussion.
 
 We three bikers started our biking session from,
 
@@ -72,3 +73,7 @@ Scorched, tired with countless happiness. The amazing cycling session from Andhe
 Yay!! I reached home.
 
 :( Now I've to go to office due to an E-Mail which was sent by **Project Manager** 2days back.
+
+# WHAT IS NEXT PLAN ??
+
+### LETS GO TO GATEWAY OF INDIA 😎
