@@ -30,12 +30,10 @@ from django.conf import settings
 
 settings.configure(
  DEBUG=True,
- SECRET_KEU='secretkeygoeshere',
  ROOT_URLCONF = __name__,
  MIDDLEWARE_CLASSES = (
      'django.middleware.common.CommonMiddleware',
      'django.middleware.clickjacking.XFrameOptionsMiddleware',
-        'django.middleware.clickjacking.XFrameOptionsMiddleware',
  ),
 )
 
@@ -62,7 +60,3 @@ It's a django project :) simply use ```runserver``` command.
 ```python django-microsite.py runserver```
 
 working code can be found [here](https://github.com/ashish2py/django-microsite).
-
-#### reference
-> * **[django project](https://github.com/ashish2py/django-microsite)**
-> * **[django configurations](https://github.com/ashish2py/django-microsite)**
