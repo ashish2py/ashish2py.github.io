@@ -102,7 +102,7 @@ The dhak (Bengali: ঢাক) is a huge membranophone instrument from South Asia
 <img src="https://lh3.googleusercontent.com/ahP8UxPy7kHfOBFWLIixPB2X3KWfJLa5vefrWl5qefITm-6YDuT7y8gN4u6SNKT4CB04Na4yvw=w989-h659-no" class="center-image img-responsive">
 
 
-# And finally a Bangalan in Traditional Saari
+# And finally a Beautiful Bangalan in Traditional Saari
 
 West Bengal climate is hot and humid thus the saris are made up of such a material which gives comfort to its wearer. The most famous are Bengali Cotton Saris, which are famously known as Taant. The Saris which is worn by Bengali ladies are colorful and vibrant and for every occasion, there is a special sari!
 
