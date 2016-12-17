@@ -4,9 +4,9 @@ title:  "Durga Puja Kolkata Trip!"
 date:   2016-12-15
 categories: photography post
 author : Ashish T.
-tags: photography trek camera Canon-1200D
+tags: photography travel kolkata
 ---
-# Kolkata Trip (Durga Puja)
+# Durga Puja - Kolkata Trip
 
 ## A small insight of the Artwork and the different Devi form celebrated in Kolkata 2016, photo gives you an insight of how much enriched we are in the context of art, culture and theme created.
 
@@ -27,7 +27,7 @@ The 9th day, navami is again followed by ritualistic puja and prayers of differn
 On 10th day, known as Vijaya Dashami,  that fills everyones heart with sadness, as it is the last day of Durga Puja. On this day, married women wearing tradional saree with red and white combination in the tradional way,  gather at the Puja pandals and smear each other with sindoor by  playing with colours as we do in Holi. This  marks the farewell of Goddess Durga. The street of kolkata is filled with devotes taking durga maa idols to immerse it into the river. Everyone exchange sweet and meet their loved ones thus celebrating the last day of navratri
 
 
-# Thai Buddhist Temple Themed Pandal
+# Thai Buddhist Temple Pandal
 25 Palli puja committee has used a similar approach by modelling their pandal on a Thai Buddhist temple. Basing the theme on the idea of heaven and hell, organisers said while the hell represents conflict, the Thai temple represents peaceful heaven.
 
 
@@ -102,7 +102,7 @@ The dhak (Bengali: ঢাক) is a huge membranophone instrument from South Asia
 <img src="https://lh3.googleusercontent.com/ahP8UxPy7kHfOBFWLIixPB2X3KWfJLa5vefrWl5qefITm-6YDuT7y8gN4u6SNKT4CB04Na4yvw=w989-h659-no" class="center-image img-responsive">
 
 
-# And finally a Beautiful Bangalan in Traditional Saari
+# Bangalan in Traditional Saari
 
 West Bengal climate is hot and humid thus the saris are made up of such a material which gives comfort to its wearer. The most famous are Bengali Cotton Saris, which are famously known as Taant. The Saris which is worn by Bengali ladies are colorful and vibrant and for every occasion, there is a special sari!
 
