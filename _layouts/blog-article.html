@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<div class="container">
+    <div class="col-sm-9 " data-wow-delay="0.5s" data-wow-duration="1.5s" data-wow-offset="10">
+        <h1 class="text-left" id="education">Blogs</h1><br/>
+    </div>
+    <div class="col-sm-12">
+        <ol class="breadcrumb" style="margin-bottom: 5px;">
+          <li><a href="/">Home</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li class="active">{{ page.title }}</li>
+        </ol>
+    </div>
+    <section>
+        <div class="tabs tabs-style-linebox">
+            <div class="content-wrap row">
+                <section class="content-current blogpost">
+                        <div class="col-sm-8">
+                            <h2 class="text-primary">{{ page.title }}</h1>
+                            <span class="text-danger">
+                            <a href="/">{{ page.author }}</a></span> posted on
+                            <span class="text-primary">{{ page.date | date: "%b %-d, %Y" }}</span>
+                            <h3>{{ content }}</h3>
+                        </div>
+                        <div class="col-sm-4">
+                                <p>
+                                  <strong> Tags </strong>
+                                  <br/>
+                                  {% for tag in page.tags %}
+                                    <span class="badge badge-primary" style="padding:5px 10px;">{{tag}}</span>
+                                    <!-- <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li> -->
+                                  {% endfor %}
+                                </p>
+
+                              <p>
+                                <strong> Recent Posts </strong>
+                                <ul class="list">
+                                {% for post in site.posts %}
+                                <li>
+                                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><small>{{ post.title }}</small></a>
+                                </li>
+                                {% endfor %}
+                                <ul>
+                            </p>
+                        </div>
+                </section>
+            </div>
+        </div>
+    </section>
+</div>
