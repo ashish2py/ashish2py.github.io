@@ -1,0 +1,17 @@
+<div class="collage-image-wrapper">
+    <div class="overlay">
+        {% if include.url %}
+            <a href="{{ include.url }}" class="lgitem" data-sub-html="#caption2" title="{{ include.title }}">
+        {% endif %}
+            <img src="{{ include.img }}" alt="{{ include.title }}" />
+        {% if include.url %}
+        </a>
+        {% endif %}
+        {% if include.caption_head %} 
+          <div id="caption2" class="hidden">
+            <h3>{{ include.caption_head }}</h3>
+            <p>{{ include.caption_sub_head }}</p>
+          </div>
+        {% endif %}
+    </div>
+</div>

@@ -1,13 +1,15 @@
 <!DOCTYPE html>
-<html>
-    {% include head.html %}
-    <body data-spy="scroll" data-target="#header" style="margin-top: 50px;">
+<html lang="en">
+{% include head.html %}
 
-        {% include header.html %}
-
-        {{content}}
-
-        {% include footer.html %}
-
-    </body>
+<body>
+    <div class="content-wrapper">
+        {% include navbar.html %}
+        <div class="side-body">
+			{{content}}
+        </div>
+        <!-- /.side-body -->
+    </div>
+</body>
+{% include footer.html %}
 </html>

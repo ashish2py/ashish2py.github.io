@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: index
 ---
+{% capture home %}current{% endcapture %}
 Site is under construction. 
 
 Please visit tomorrow.
