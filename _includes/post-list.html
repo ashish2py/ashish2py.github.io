@@ -1,0 +1,11 @@
+{% for post in site.posts %}
+<li>
+    <figure class="overlay small">
+        <a href="blog-post.html"><img src="{{post.img}}" alt="" /> </a>
+    </figure>
+    <div class="post-content">
+        <h4 class="post-title"> <a href="blog-post.html">{{post.title}}</a> </h4>
+        <div class="meta"><span class="date">{{ post.date | date: "%b %-d, %Y" }}</span><span class="category"><a href="#">{{post.tags}}</a></span></div>
+    </div>
+</li>
+{% endfor %}

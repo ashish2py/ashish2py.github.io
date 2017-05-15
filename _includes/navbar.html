@@ -22,15 +22,14 @@
           </ul>
         </li>
         <li class="{% if page.path contains 'gallery' %}current{% endif %}"><a href="/gallery/">Gallery</a></li>
-<!--         
-        <li class="sub-menu"><a href="#!">Blog<span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="blog.html">Grid View</a></li>
-            <li><a href="blog2.html">List View</a></li>
-            <li><a href="blog3.html">Magazine</a></li>
-            <li><a href="blog-post.html">Blog Post</a></li>
-          </ul>
+        <li class="{% if page.path contains 'blog' or page.path contains 'post' %}current{% endif %} sub-menu"><a href="/blog/">Blog <span class="caret"></span></a>
+<!--           <ul class="dropdown-menu">
+            <li><a href="/blogs/">Photography</a></li>
+            <li><a href="/blogs/">Tech</a></li>
+          </ul> -->
         </li>
+
+<!--         
         <li class="sub-menu"><a href="#!">Pages<span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="about.html">About</a></li>

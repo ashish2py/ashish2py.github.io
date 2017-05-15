@@ -4,7 +4,6 @@ title: Faces Of India
 permalink: /gallery/benaras/
 ---
 
-
 {% include portfolio-image-wrapper.html 
 		img="https://lh3.googleusercontent.com/TI66Jg-GJGz38orkQlXPdKVuoFO7K73v9fwE6gqTUW4X5FjvsNjm7DFWzBSvstuaZyKHovSogc78W_Sd8bTbCo_EoJSrrigTHHzbggYP406KvjkyAykVihYLVZpznB0PRoIylPomhx4XcNn0DvzhWRFuig7zU1o60p_gHMeaKS20KZ_Rzotf5rf_prUmkR_aYmt7ET0aPkL7nkAhnZtuTND6GmD3dt-KcFG9G_lt7OkpeEECxWWE4GjNLVGMas1PUcy95B_YWsnwW7RMnLD6rhCK0dRlVsXcziea5hknozj24UNuAUYwFBpm9WsDg9h4UwLhXWIVfuccTaDugFgA_qVHg-QclckZPZz-Uvpvg95WY8gxwLcpaEFhF-Y-QXcskE1Y4qD4RE1aiJ09ueURNIp_IiomMsovRZ8AT10vUwa6kzQRmBQbiTvPmv4wGOrJYnEmJ8FfN0jZe082HmZiQXreZJUxPtj102V9qv7zVUHZzfae9866P6QpX-0XZslKeBCfZIguvnl7EPwh9GUJYahTLf4XZgMrDSUA3vmilVbzqFPKMaqSthyxytRbI1oQOcUVaRw-Pl3Z8sGQjHuC_fiKdHvvs4xmOApt7Lbl1qQwOoig-sgl=w921-h614-no"
             index=1		
