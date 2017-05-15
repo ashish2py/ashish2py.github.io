@@ -1,6 +1,6 @@
   <div class="navbar navbar-default default classic full" role="navigation">
     <div class="navbar-header">
-      <div class="navbar-brand"><h1><a href="index.html">AT</a></h1></div>
+      <div class="navbar-brand"><h1><a href="index.html">A<small>shish</small>T<small>iwari</small></a></h1></div>
       <div class="nav-bars-wrapper">
         <div class="nav-bars-inner">
           <div class="nav-bars" data-toggle="collapse" data-target=".navbar-collapse"><span></span></div>
@@ -21,7 +21,8 @@
             <li><a href="/portfolio/potrait/">Portrait</a></li>
           </ul>
         </li>
-<!--         <li><a href="gallery.html">Gallery</a></li>
+        <li class="{% if page.path contains 'gallery' %}current{% endif %}"><a href="/gallery/">Gallery</a></li>
+<!--         
         <li class="sub-menu"><a href="#!">Blog<span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="blog.html">Grid View</a></li>
@@ -66,6 +67,7 @@
         <li> <a href="#"><i class="ion-social-instagram"></i></a> </li>
         <li> <a href="#"><i class="ion-social-vimeo"></i></a> </li>
       </ul>
+      <p class="text-right"><small><b>disclaimer: </b>All the photographs are clicked by me and my friends, If you want any of the photographs for commercial use then please us <a href="/contact/">contact me</a> page.</small></p><br/><br/>
       <p>© 2017 Ashish Tiwari</p>
     </div>
     <!-- /.navbar-footer --> 

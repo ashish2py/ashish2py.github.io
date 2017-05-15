@@ -1,12 +1,8 @@
 <div class="collage-image-wrapper">
     <div class="overlay">
-        {% if include.url %}
-            <a href="{{ include.url }}" class="lgitem" data-sub-html="#caption{{include.index}}" title="{{ include.title }}">
-        {% endif %}
-            <img src="{{ include.img }}" alt="{{ include.title }}" />
-        {% if include.url %}
+        <a href="{{ include.img }}" class="lgitem" data-sub-html="#caption{{include.index}}" title="{{ include.title }}">
+        <img src="{{ include.=img }}" alt="{{ include.title }}" />
         </a>
-        {% endif %}
         {% if include.title %} 
           <div id="caption{{include.index}}" class="hidden">
             <h3>{{ include.title }}</h3>

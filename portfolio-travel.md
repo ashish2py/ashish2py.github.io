@@ -11,6 +11,15 @@ permalink: /portfolio/travel/
             caption="There is only one way board." 
             url="https://instagram.fbom8-1.fna.fbcdn.net/t51.2885-15/e35/18300141_773995822768755_2934372294291619840_n.jpg" %}
 
+
+
+{% include portfolio-image-wrapper.html 
+            img="https://scontent-sit4-1.cdninstagram.com/t51.2885-15/e35/18013993_297823520650693_2355976581911937024_n.jpg"
+            index=6
+            title="The Indian Museum at Kolkata"
+            caption="It is the largest and oldest museum in India and has rare collections of antiques, armour and ornaments, fossils, skeletons, mummies, and Mughal paintings. It was founded by the Asiatic Society of Bengal in Kolkata, India, in 1814. Kolkata, India" 
+            url="https://scontent-sit4-1.cdninstagram.com/t51.2885-15/e35/18013993_297823520650693_2355976581911937024_n.jpg" %}
+            
 {% include portfolio-image-wrapper.html 
 		img="https://instagram.fbom8-1.fna.fbcdn.net/t51.2885-15/e35/18444307_1339634476084757_4169074206757093376_n.jpg"
             index=2
@@ -40,11 +49,3 @@ permalink: /portfolio/travel/
             title="Selecting a boat for a customer."            
             caption="Murudeshwar, Karnataka, India" 
             url="https://scontent-sit4-1.cdninstagram.com/t51.2885-15/e35/18380545_318452668575158_809079806007181312_n.jpg" %}
-
-
-{% include portfolio-image-wrapper.html 
-            img="https://scontent-sit4-1.cdninstagram.com/t51.2885-15/e35/18013993_297823520650693_2355976581911937024_n.jpg"
-            index=6
-            title="The Indian Museum at Kolkata"
-            caption="It is the largest and oldest museum in India and has rare collections of antiques, armour and ornaments, fossils, skeletons, mummies, and Mughal paintings. It was founded by the Asiatic Society of Bengal in Kolkata, India, in 1814. Kolkata, India" 
-            url="https://scontent-sit4-1.cdninstagram.com/t51.2885-15/e35/18013993_297823520650693_2355976581911937024_n.jpg" %}
