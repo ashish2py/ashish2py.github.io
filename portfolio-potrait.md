@@ -39,4 +39,15 @@ permalink: /portfolio/potrait/
             caption="She makes delicious food for traveller/trekkers of Sudhagadh Fort."
             url="https://scontent-sit4-1.cdninstagram.com/t51.2885-15/e35/18011882_1478773802167950_4856632633293012992_n.jpg" %}
 
+{% include portfolio-image-wrapper.html 
+            img="https://lh3.googleusercontent.com/39mWJq1k5jHcUeteL_Yfs93nar1kyytSCHrOAI3Jpn1avXk-v6_udUBCbIbGA9vpdZWQ-dQVUDKmJbUr86F-I3Nz7uBIdmtjdQAlJvOzuXiHWxYdZ7HmEL7bmvLP9-vwpOBkeM6vq88kSrjrk1rk1EtZyZdhWlJjGE9qmUb68q8nYYjfOp6bh4b0xS9mtzJxEk30gtRUUeA6ScaQPyXvBBSsQIlYG2j472GYl0UG_SeevhA8yHsJLl5ZPHGX9oqB-_KzGo3TpVPq6MNd5PKCx65uXLzNMO-Uyijzp-3lpNqfdcSzTUG1S-KkALRKgzzxHvZc8B9Bg4qRG9g7FHqSMyuIgkr1T9zfJyntku621EjcmEaZdn6C2YKcUH6sOxNrLeTU0gE_Ou68CUKzP_B4QADPKsgvUwaEzGSJZxHC6hRA4yl6Me3lbCoBYWewBixinlPDCalYAuVJqr_EBzA-Lt9g8hsTXSjM5dpP4pXogwsz44pICv8sn3qheTsn93mhoBnEMPb__n1FC7s0XU13QLMbNaueTqqzfXuuMvJ5aG8vGqjelJ7WARxp_FJns0ri1oLvXaFEqZomHzrC5wj2ApMkwLcyl8A9Q-fYy7ZD2k0xrckLsZF4xA=w920-h518-no"
+            index=6
+            title="Faces Of India : Students."
+            caption="Students are so much excited in front of camera." %}
 
+
+{% include portfolio-image-wrapper.html 
+            img="https://lh3.googleusercontent.com/3TCZH5CST_4EWLwvM84LVDEfU2PbtH2FymeenZ5IImsqjlT6LdYP1dTglgDIfmHa2cSZcTAd_tCyXQVjkEdnrDRYxYmxLdMCeRS1eYPxOmEj8Fq9ffZNOe1N72rMdvAZjzbX1x5B6aTHsmuh0CZ1oH3YbKuNSBb4XuwbyVTIb32zsDa1deu2q8rR-Zt9NcdpZAqDmyIHid9rK1f5-1c-3Sq0qz-CJdhRrvQcndaCEn4EHLn0sM-Q0xuNAPoAXkp3QLIEZS0ron1zIZZKTmX34VlnkR6shWMGF7oOb3a2Si3Gazx-DPhdDWhYD7hXXhhkXbej4wEOKBELLt2dgeQ0bdfDMlSkp_klhQnniDP-v960lQ2Jnd4jO0dxrOccLwgFxS5aGfwMzVwYQeyZw57bNGxpiVOy5QZSzRW21aW6IoEbzav1Zak0cllAX11_fV2EOg_9ZcbJX-bBpV7xxqFd4vYzYNtwbxyBU4yNxbjUgANJlbzsyYD_6AWxRVHf9xIYgYVcdR6gvSirZlRvT7514IhhOf_zQi88MhOkeSO5LnAeTH8saM4FwnGo0kYBGluF9ePtbLOKdFrowhnzrNDwBO-n7yEr2oi1fjnm1bg54hPmr_mkb8-ucw=w920-h518-no"
+            index=7
+            title="Traditional Day : Indian Pablo Escobar"
+            caption="That's what his dressing says." %}

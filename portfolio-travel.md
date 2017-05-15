@@ -49,3 +49,12 @@ permalink: /portfolio/travel/
             title="Selecting a boat for a customer."            
             caption="Murudeshwar, Karnataka, India" 
             url="https://scontent-sit4-1.cdninstagram.com/t51.2885-15/e35/18380545_318452668575158_809079806007181312_n.jpg" %}
+
+
+{% include portfolio-image-wrapper.html 
+            img="https://lh3.googleusercontent.com/ZnW0EZgTE9Od4yJKQpGLENW4v2fMrOCDStbO3sNxXAR13fd__w16mPfqmQGyNgAMxNUgeN1B9oGnMe6gal491wd5CZ35VKG8wUCuprL2BDHcOlmEAVFry8Pg5iGLjOeAYmIbCQm9BCXPH3yNx1-m9ElIV6u2WQLgs_FijzE4e2s56MlMy7MvFIC5dSJUSnEDDAtRASaGNtb7_a9ORcGMk1QFwPRX5Isa83i4hxdZIZP0c89fJ9c16C79xl88mhjNH9Csy20t6KyBt3lI_hHWzSIlt36ueGKMjeaiiYgG4zAfvZYwlUl_eF24Q2myCqJZD2K0bKxkHma_2HovyvCVUaCOTc0-gSmSuwLTI2XvD_l9jgyuo-ymtRcM_cB_cK2Qxn16lfvRxWT-APd9rBATdPq16VAFdy4bKtYrhY6Vn0MmPskVkzzou4CbTE1RXOajEV1enYg8smT-b4dReKIc399Zm6t--qgxYKmQEuAvPcBYZQiWvE0ZqyEvZkK45-mEFbFrgHznEVPxrGaxH5Vbe9PF_cMb54A1iPH04EUjBfpIqZcsE6xguXzee7STRgaJ8GayjUXc46cv1w0iuLxk0iX0q0evCCxH5jQyfF8hSJKHBk84ufNR7A=w920-h518-no"
+            index=7
+            title="RatanGadh Fort, Maharashtra"
+            caption="Walkig on the edges." 
+            url="https://scontent-sit4-1.cdninstagram.com/t51.2885-15/e35/18380545_318452668575158_809079806007181312_n.jpg" %}
+
