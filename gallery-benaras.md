@@ -1,6 +1,7 @@
 ---
 layout: portfolio-collage-container
-title: Faces Of India
+title: Benaras - Cultural capital of India
+description:  It has many names Benaras, Kashi or Banaras. It's a city of pandits in wooden sandals, where the incense sticks adds tantalizing aroma to the air and blend with the sound of temple bells. People come here to attain nirvana and die in the hope of breaking out of the cycle of karma and re-birth. 
 permalink: /gallery/benaras/
 ---
 
