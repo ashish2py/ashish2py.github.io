@@ -51,3 +51,26 @@ permalink: /portfolio/potrait/
             index=7
             title="Traditional Day : Indian Pablo Escobar"
             caption="That's what his dressing says." %}
+
+
+
+{% include portfolio-image-wrapper.html 
+            img="https://instagram.fbom8-1.fna.fbcdn.net/t51.2885-15/e35/17818920_408787009477554_4738994097530863616_n.jpg"
+            index=8
+            title="Rudra Prasad Das "
+            caption="black and white potrait photography" %}
+
+
+{% include portfolio-image-wrapper.html 
+            img="https://instagram.fbom8-1.fna.fbcdn.net/t51.2885-15/e35/18011882_1478773802167950_4856632633293012992_n.jpg"
+            index=9
+            title="ALL SUDHAGADH TREKKER'S GRANNY"
+            caption="Sudhagadh, Pali Village, Maharashtra, India" %}
+
+{% include portfolio-image-wrapper.html 
+            img="https://instagram.fbom8-1.fna.fbcdn.net/t51.2885-15/e35/17663141_403644376661676_785442148550967296_n.jpg"
+            index=9
+            title="From the City of Joy, Kolkata"
+            caption="" %}
+
+            
