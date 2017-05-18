@@ -66,3 +66,76 @@ permalink: /portfolio/travel/
             caption="" 
             %}
 
+{% include portfolio-image-wrapper.html 
+            img="https://instagram.fbom8-1.fna.fbcdn.net/t51.2885-15/e35/18445057_741860109318975_4399011611730247680_n.jpg"
+            index=9
+            title="Omkareshwar Temple"
+            caption="The Omkareshwara Temple is an ancient shrine dedicated to Lord Shiva. It is situated in the town of Madikeri in Coorg, Karnataka. The speciality of the temple is that its construction reflects a mix of Gothic and Islamic styles." 
+            %}
+
+{% include portfolio-image-wrapper.html 
+            img="https://instagram.fbom8-1.fna.fbcdn.net/t51.2885-15/e35/18444222_1479287128760539_1109876122595622912_n.jpg"
+            index=10
+            title="Road to Coorg."
+            caption="There are no rules of architecture for a castle in the clouds." 
+            %}
+
+
+{% include portfolio-image-wrapper.html 
+            img="https://instagram.fbom8-1.fna.fbcdn.net/t51.2885-15/e35/18444290_1307362832665726_2640050258649808896_n.jpg"
+            index=11
+            title="Top View of Coorg :  India's Scotland."
+            caption="" 
+            %}
+
+
+{% include portfolio-image-wrapper.html 
+            img="https://instagram.fbom8-1.fna.fbcdn.net/t51.2885-15/e35/18444167_148338209038969_3228455400902754304_n.jpg"
+            index=12
+            title="A mother is your first friend, your best friend, your friend forever..."
+            caption="Woman helping her mother to cross the road outside durga temple in karnataka." 
+            %}
+
+
+{% include portfolio-image-wrapper.html 
+            img="https://instagram.fbom8-1.fna.fbcdn.net/t51.2885-15/e35/18513085_1937208166514167_5057455301075140608_n.jpg"
+            index=13
+            title="Bridge Near Abbey Waterfall, Coorg"
+            caption="This bridge reminds me jurassic park.Bridge next to Abbey Waterfall" 
+            %}
+
+
+
+{% include portfolio-image-wrapper.html 
+            img="https://instagram.fbom8-1.fna.fbcdn.net/t51.2885-15/e35/18095110_1824039971249534_1762968024991662080_n.jpg"
+            index=14
+            title="Shiva and Parvati : symbol of togetherness"
+            caption="" 
+            %}
+
+            
+
+{% include portfolio-image-wrapper.html 
+            img="https://instagram.fbom8-1.fna.fbcdn.net/t51.2885-15/e35/18095083_1856109161293912_9113307237832458240_n.jpg"
+            index=15
+            title="Graves inside Fatehpur Sikri. Here rests the family of Saint Sheikh Chisti"
+            caption="" 
+            %}
+
+
+{% include portfolio-image-wrapper.html 
+            img="https://instagram.fbom8-1.fna.fbcdn.net/t51.2885-15/e35/17934042_277720862679846_3253566476954632192_n.jpg"
+            index=16
+            title="RIVER SAYS : THERE IS NO HURRY, WE SHALL GET THERE SOMEDAY"
+            caption="" 
+            %}
+
+
+{% include portfolio-image-wrapper.html 
+            img="https://instagram.fbom8-1.fna.fbcdn.net/t51.2885-15/e35/17882611_1802435416741060_4613868089447022592_n.jpg"
+            index=17
+            title="Upside Down in nature's pool."
+            caption="Trek to ratangadh, Maharashtra" 
+            %}            
+
+            
